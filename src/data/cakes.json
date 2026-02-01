@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Chocolate Fudge Cake",
-    "pic": "/images/pic1.jpg",
+    "pic": "./images/pic1.jpg",
     "price": "45.00",
     "calories": "450",
     "ingredients": "Dark chocolate, Cocoa powder, Flour, Eggs, Butter, Sugar"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Red Velvet Delight",
-    "pic": "/images/pic2.jpg",
+    "pic": "./images/pic2.jpg",
     "price": "48.00",
     "calories": "420",
     "ingredients": "Cream cheese frosting, Cocoa, Flour, Buttermilk, Beetroot extract"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Vanilla Bean Dream",
-    "pic": "/images/pic3.jpg",
+    "pic": "./images/pic3.jpg",
     "price": "39.00",
     "calories": "380",
     "ingredients": "Vanilla bean, Milk, Flour, Eggs, Organic honey"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Pistachio Rose Cake",
-    "pic": "/images/pic4.jpg",
+    "pic": "./images/pic4.jpg",
     "price": "55.00",
     "calories": "410",
     "ingredients": "Ground pistachios, Rose water, Semolina, Lemon zest"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Salted Caramel Cheesecake",
-    "pic": "/images/pic5.jpg",
+    "pic": "./images/pic5.jpg",
     "price": "52.00",
     "calories": "510",
     "ingredients": "Cream cheese, Sea salt, Caramel sauce, Biscuit base"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Lemon Meringue Tart",
-    "pic": "/images/pic6.jpg",
+    "pic": "./images/pic6.jpg",
     "price": "42.00",
     "calories": "350",
     "ingredients": "Fresh lemon juice, Eggs, Sugar, Pastry crust"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Lotus Biscoff Crunch",
-    "pic": "/images/pic7.jpg",
+    "pic": "./images/pic7.jpg",
     "price": "49.00",
     "calories": "530",
     "ingredients": "Lotus spread, Biscuits, Cream, Condensed milk"
